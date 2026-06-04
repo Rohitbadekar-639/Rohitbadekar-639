@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rohit Badekar</h1>
 
 <h3 align="center">
-A Passionate Fullstack Software Engineer and Solopreneur from India
+A passionate Fullstack AI Engineer and GenAI Engineer from Pune, India
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-• 3+ years building production-grade web applications & AI products
+• 3+ years building production-grade enterprise web applications & AI products
 
-• Specialized in React, Next.js, TypeScript, Node.js, React Native & GenAI
+• Specialized in React, Next.js, TypeScript, Node.js, Python, & GenAI Applications
 
-• Building fast, scalable, AI-powered SaaS products
+• Building fast, scalable, AI-powered SaaS & enterprise products
 
 • Interested in Product Engineering, AI Systems & Modern Web Architecture
 
@@ -38,11 +38,11 @@ React • Next.js • TypeScript • Redux • Tailwind CSS
 
 **Backend**
 
-Node.js • NestJS/Express • PostgreSQL • MongoDB
+Node.js • Express • Python • FastAPI• PostgreSQL • MongoDB
 
 **AI**
 
-RAG • LLM Apps • Agents • OpenAI • Gemini • Claude
+RAG • LLM Apps • Agents • Vector Databases • OpenAI • LangChain • LangGraph • LlamaIndex
 
 **Tools**
 
@@ -52,9 +52,9 @@ Docker • AWS • Azure • Git • Cursor • Vercel
 
 ## 🌟 Featured Projects
 
-### 🤖 AI Interview Copilot
+### 🤖 Agentic QA Generator
 
-Real-time AI assistant for interview workflows
+full-stack AI automation tool that parses unstructured Jira requirements and generates production-ready automated test suites
 
 ### ⚡ AI Content Generator SaaS
 
@@ -66,7 +66,7 @@ Fullstack chat experiences powered by LLMs
 
 ---
 
-## 📫 Connect
+## 📫 Connect Me
 
 LinkedIn → linkedin.com/in/rohit-badekar
 
