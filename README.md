@@ -1,83 +1,86 @@
 <h1 align="center">Hi 👋, I'm Rohit Badekar</h1>
 
 <h3 align="center">
-A passionate Fullstack AI Engineer and GenAI Engineer from Pune, India
+Frontend Engineer | React • Next.js • TypeScript | AI-Powered Web Applications | Full-Stack AI Engineer
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-• 3+ years building production-grade enterprise web applications & AI products
-
-• Specialized in React, Next.js, TypeScript, Node.js, Python, & GenAI Applications
-
-• Building fast, scalable, AI-powered SaaS & enterprise products
-
-• Interested in Product Engineering, AI Systems & Modern Web Architecture
+Full-Stack AI Engineer with 3+ years of experience building enterprise web applications and AI-powered products. Specialized in React, Next.js, TypeScript, Node.js, Python, and Generative AI. Passionate about building scalable, high-performance SaaS products with modern UI and AI-driven experiences.
 
 ---
 
 ## ⚡ Current Focus
 
-🔹 AI Engineering & LLM Applications
+🔹AI Engineering & LLM/GenAI Applications
 
-🔹 Fullstack Product Development
+🔹Full-Stack Product Development
 
-🔹 Agentic Workflows & AI Integrations
+🔹Agentic Workflows & AI Integrations
 
-🔹 Scalable Frontend Systems
+🔹Scalable Frontend Systems
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
+• **Frontend :**
+React, Next.js, TypeScript, Redux, Tailwind CSS, Figma, Framer
 
-React • Next.js • TypeScript • Redux • Tailwind CSS
+• **Backend & Databases :**
+Node.js, Express, Python, RESTful APIs, PostgreSQL, MongoDB 
 
-**Backend**
+• **AI/GenAI :**
+RAG, LLMs, Agents, Vector Databases, Prompt Engineering, OpenAI, LangChain, LangGraph 
 
-Node.js • Express • Python • FastAPI• PostgreSQL • MongoDB
-
-**AI**
-
-RAG • LLM Apps • Agents • Vector Databases • OpenAI • LangChain • LangGraph • LlamaIndex
-
-**Tools**
-
-Docker • AWS • Azure • Git • Cursor • Vercel
+• **Tools :**
+Docker, AWS, Azure, Git, Vercel, Jest, CI/CD, JWT/OAuth
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🤖 Agentic QA Generator
+### 🤖 AI Travel Agents
+Production-grade multi-agent travel planning platform using LangGraph, Python, LLMs, and external APIs for booking hotels, flights, itinerary generation and recommendations with a complete travel plan
 
-full-stack AI automation tool that parses unstructured Jira requirements and generates production-ready automated test suites
+### 🤖 Agentic QA Generator
+Full-stack AI automation tool that parses unstructured Jira requirements and generates production-ready automated test suites
 
 ### ⚡ AI Content Generator SaaS
-
-Production real monetizable AI product with modern UX and payment integration
+Production monetizable AI product with modern UX and payment integration
 
 ### 💬 Realtime AI Chat Platform
-
-Fullstack chat experiences powered by LLMs
+Full-Stack chat experiences and code generation powered by LLMs
 
 ---
 
-## 📫 Connect Me
+## 📫 Connect with Me
 
-LinkedIn → linkedin.com/in/rohit-badekar
+• LinkedIn → linkedin.com/in/rohit-badekar
 
-Portfolio → rohitbadekar.vercel.app
+• Portfolio → rohitbadekar.vercel.app
 
-Email → rohitbadekar555@gmail.com
+• Email → rohitbadekar555@gmail.com
 
-Leetcode → leetcode.com/u/rohitbadekar555
+• Leetcode → leetcode.com/u/rohitbadekar555
+
+• HackerRank → hackerrank.com/profile/rohitbadekar555  
 
 ---
 
 ## ⚡ Fun Fact
+I enjoy transforming AI ideas into production-ready products that solve real-world problems. 
 
-I enjoy building software where AI meets real product experiences.
+---
+
+## 🌟 Achievements
+
+• Built multiple production Full-stack and AI applications
+
+• 3+ years of enterprise software development
+
+• Immediate Joiner
+
+• Open to Remote • Pune • Mumbai • Bengaluru • Hyderabad
