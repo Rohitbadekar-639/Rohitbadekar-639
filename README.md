@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rohit Badekar</h1>
 
 <h3 align="center">
-Frontend Engineer | React • Next.js • TypeScript | AI-Powered Web Applications | Full-Stack AI Engineer
+Frontend Engineer | React | Next.js | Node.js | Full Stack AI Engineer | AI/GenAI Applications
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-Full-Stack AI Engineer with 3+ years of experience building enterprise web applications and AI-powered products. Specialized in React, Next.js, TypeScript, Node.js, Python, and Generative AI. Passionate about building scalable, high-performance SaaS products with modern UI and AI-driven experiences.
+Full-Stack AI Engineer with 3+ years of professional experience building enterprise web applications and AI-powered products. Specialized in React, Next.js, TypeScript, Node.js, Python, and Generative AI. Passionate about building scalable, high-performance SaaS products with modern UI and AI-driven experiences.
 
 ---
 
@@ -20,7 +20,7 @@ Full-Stack AI Engineer with 3+ years of experience building enterprise web appli
 
 🔹Agentic Workflows & AI Integrations
 
-🔹Scalable Frontend Systems
+🔹Scalable Backend | Responsive Frontend
 
 ---
 
